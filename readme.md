@@ -18,4 +18,4 @@ Favorite TV series: Avatar the Last Airbender
 
 Favorite fruit: Strawberries like real good ones
 
-Favorite artificial fruit candy flavor: Cherry but also strawberry sometimes
+Favorite artificial fruit candy flavor: Cherry but also apple sometimes
