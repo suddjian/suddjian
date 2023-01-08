@@ -1,3 +1,3 @@
 # hi!
 
-I make weird web things. :spider_web:
+I make weird web things :spider_web: and games 👾
